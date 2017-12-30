@@ -1,0 +1,15 @@
+
+*.pdb
+*.cache
+LearningCSharp/bin/Debug/LearningCSharp.exe
+LearningCSharp/bin/Debug/LearningCSharp.exe.config
+LearningCSharp/bin/Debug/LearningCSharp.vshost.exe
+LearningCSharp/bin/Debug/LearningCSharp.vshost.exe.config
+LearningCSharp/bin/Debug/LearningCSharp.vshost.exe.manifest
+LearningCSharp/obj/Debug/LearningCSharp.csproj.FileListAbsolute.txt
+LearningCSharp/obj/Debug/LearningCSharp.exe
+LearningCSharp/obj/Debug/LearningCSharp.Form1.resources
+LearningCSharp/obj/Debug/LearningCSharp.Properties.Resources.resources
+LearningCSharp/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+LearningCSharp/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+LearningCSharp/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
