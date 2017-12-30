@@ -31,5 +31,10 @@ namespace LearningCSharp
                 MessageBox.Show(path + " 에 폴더가 없습니다.");
             }
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            CheckForIllegalCrossThreadCalls = false;
+        }
     }
 }
