@@ -34,6 +34,7 @@ namespace LearningCSharp
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            // C# - 크로스 스레드 작업이이 잘못되었습니다.
             CheckForIllegalCrossThreadCalls = false;
         }
     }
